@@ -1,4 +1,4 @@
-<h1> Web studio website development.
+<h2> Web studio website development. </h2>
 
 — Створи репозиторій goit-markup-hw-01.
 
